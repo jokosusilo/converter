@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mustache/mustache": "~2.5",
+        "mikehaertl/phpwkhtmltopdf": "^2.3"
+    }
+}
